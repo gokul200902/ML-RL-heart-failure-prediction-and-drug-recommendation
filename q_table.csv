@@ -1,0 +1,5 @@
+,Aspirin,Warfarin,Rosuvastatin,no_treatment
+young_low_risk,1.2300262,0.45654085,0.14151284,0.0
+old_high_risk,0.018679142,1.2315006,0.7424854,0.0
+mid_age_mid_risk,0.5091045,1.0261683,0.5268495,0.0
+no_risk,0.0,0.0,0.0,1.1399128
